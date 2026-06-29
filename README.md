@@ -96,9 +96,9 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <img align="middle" src="https://go-skill-icons.vercel.app/api/icons?i=python,selenium,playwright,pandas,postgres,docker,airflow,elasticsearch,grafana,git,github,githubactions,openai,claude,anthropic,huggingface&perline=16" height="40" alt="Python, Selenium, Playwright, Pandas, PostgreSQL, Docker, Airflow, Elasticsearch, Grafana, Git, GitHub, GitHub Actions, OpenAI, Claude, Anthropic, Hugging Face" />
 &nbsp;
-<img align="middle" src="./logo-bp.png" height="40" alt="Blue Prism" />
+<img align="middle" src="./logo-bp-1.png" height="40" alt="Blue Prism" />
 &nbsp;
-<img align="middle" src="./logo-powerbi.png" height="40" alt="Power BI" />
+<img align="middle" src="./logo-powerbi-1.png" height="40" alt="Power BI" />
 
 </div>
 
