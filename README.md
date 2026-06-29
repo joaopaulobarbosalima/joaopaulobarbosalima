@@ -14,9 +14,7 @@
 
 ### Python Developer & RPA Engineer • Intelligent Automation
 
-`Python Developer` | `RPA Engineer` | `Hyperautomation` | `CoE` | `DevOps` | `Intelligent Automation`
-
-Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação**, atuando em projetos ponta a ponta — da concepção (PDD/SDD) ao desenvolvimento, administração e operação em **Control Room**.
+Transformo processos manuais e repetitivos em **automações inteligentes** que economizam horas, reduzem erros e cortam custos operacionais. Uno **RPA** (Blue Prism, BotCity), **Python** e **IA / LLMs** para entregar soluções ponta a ponta, da concepção (PDD/SDD) à entrega e sustentação em **Produção**, sempre com foco em **resultado, escala e ROI**.
 
 <br/>
 
@@ -56,7 +54,7 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <td width="45%" valign="top" align="center">
 
-<!-- Adicione um banner pessoal aqui depois, se quiser (igual ao do Thiago) -->
+<!-- Adicione um banner pessoal aqui depois -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joaopaulolima22/">
