@@ -20,7 +20,7 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <br/>
 
-**🤖 RPA & Hyperautomation**
+**RPA & Hyperautomation**
 - **Blue Prism** como Desenvolvedor, Administrador, Analista e Control Room
 - Desenvolvimento RPA em **SAP ERP** e automação em sistemas **Oracle**
 - **BotCity** e automação de processos com Python
@@ -29,7 +29,7 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <br/>
 
-**🐍 Python & Dados**
+**Python & Dados**
 - Web scraping, **Selenium**, **Playwright**, **Pywinauto**, **PyAutoGUI** e interfaces gráficas
 - **SQLAlchemy**, **Alembic**, **Pydantic**, **Pandas**, **Openpyxl**
 - **ETL**, análise de dados e visualização com **Power BI**
@@ -38,7 +38,7 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <br/>
 
-**☁️ DevOps & IA**
+**DevOps & IA**
 - Containerização com **Docker** e versionamento com **Git** / **GitHub**
 - Orquestração de workflows e pipelines com **Apache Airflow**
 - Observabilidade e dashboards com **Grafana** e **Elasticsearch**
@@ -48,7 +48,7 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <br/>
 
-**🎓 Formação**
+**Formação**
 - Bacharel em Sistemas de Informação
 
 <br/>
@@ -92,60 +92,13 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<br/>
-
-**Linguagem & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logoColor=white)
-
-**RPA & Hyperautomation**
-
-![Blue Prism](https://img.shields.io/badge/Blue%20Prism-00B2A9?style=for-the-badge&logoColor=white)
-![BotCity](https://img.shields.io/badge/BotCity-1E1E2E?style=for-the-badge&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Pywinauto](https://img.shields.io/badge/Pywinauto-4B8BBE?style=for-the-badge&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logoColor=black)
-
-**Dados & BI**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Openpyxl](https://img.shields.io/badge/Openpyxl-1D6F42?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**DevOps & Observabilidade**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Inteligência Artificial**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-Skills%20%7C%20Agents%20%7C%20Hooks-6E56CF?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-1C7D73?style=for-the-badge&logoColor=white)
-![IA / LLMs](https://img.shields.io/badge/IA%20%2F%20LLMs-FF6F61?style=for-the-badge&logoColor=white)
-
-**Bancos de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img align="middle" src="https://go-skill-icons.vercel.app/api/icons?i=python,selenium,playwright,pandas,postgres,docker,airflow,elasticsearch,grafana,git,github,githubactions,openai,claude,anthropic,huggingface&perline=16" height="40" alt="Python, Selenium, Playwright, Pandas, PostgreSQL, Docker, Airflow, Elasticsearch, Grafana, Git, GitHub, GitHub Actions, OpenAI, Claude, Anthropic, Hugging Face" />
+&nbsp;
+<img align="middle" src="./logo-bp.png" height="40" alt="Blue Prism" />
+&nbsp;
+<img align="middle" src="./logo-powerbi.png" height="40" alt="Power BI" />
 
 </div>
 
@@ -159,7 +112,7 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 
 <div align="center">
 
-## 📜 Certificações
+## Certificações
 
 <table>
 <tr>
