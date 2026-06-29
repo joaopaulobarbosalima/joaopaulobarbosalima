@@ -172,6 +172,11 @@ Desenvolvedor focado em **automação de processos (RPA)** e **hiperautomação*
 <br/>
 
 <div align="center">
+
+### 💼 Disponível para Freelances
+
+Aberto a projetos **freelance** de **desenvolvimento** e **consultoria** em automação (RPA), Python e IA.
+
   <a href="mailto:joaopauloblima98@gmail.com">
     <img src="https://img.shields.io/badge/CONTATO-joaopauloblima98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
